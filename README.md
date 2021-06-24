@@ -19,5 +19,6 @@ Hi, my name is Rodrigo and I'm a Computer Science Student at UESB.
 
 
 ## :iphone: Socials
-[![Twitter](https://img.shields.io/badge/@y2219_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/y2219_)
-[![Discord](https://img.shields.io/badge/y2219%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/308349999719251988)
+[![Twitter](https://img.shields.io/badge/@y2219__-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/y2219_)
+[![Discord](https://img.shields.io/badge/y2219-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/308349999719251988)
+[![LinkedIn](https://img.shields.io/badge/y2219-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y2219)
