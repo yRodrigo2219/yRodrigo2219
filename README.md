@@ -1,14 +1,15 @@
-#### :construction: It's curretly a WIP
-
 ## :mortar_board: About me
 Hi, my name is Rodrigo and I'm a Computer Science Student at UESB.
 
 ## :star: My Preferences
 #### Front-end Languages/Frameworks
+[![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+[![JavaScript](https://img.shields.io/badge/javascript%20-%23c4c417.svg?&style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/javascript%20-%23c4c417.svg?&style=for-the-badge&logo=javascript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+
+#### Design Software
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 #### State Manager
 [![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](#)
